@@ -16,7 +16,7 @@ Details of this project are as follows:
 
 ## Squema
 
-![Image Alt Text](magist_schema.pdf)
+![Image Alt Text](magist_schema.jpg)
 
 
 So, to guide **Eniac** with these 2 aspects, we have gathered some data from Magist & showcased the insights which will be helpful for Eniac to decide.
