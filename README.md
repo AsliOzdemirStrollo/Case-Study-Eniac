@@ -29,9 +29,6 @@ So, to guide **Eniac** with these 2 aspects, we have gathered some data from Mag
 ## Datasource:
 We have used Magist's database to extract the exact data & visualize it to summarize.
 
-## Project Contributors:
-Group of 4 peoples contributed in this project work.
-
 ## Key Learnings:
 1. Understand the Magist's database in MySQL by reverse engineering & EER diagram.
 2. Using sql queries extract the information from tables & use it solve business questions.
