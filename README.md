@@ -48,12 +48,10 @@ The assessment of Magist involves a comprehensive evaluation based on the follow
 ## Conclusion:
 We have concluded our presentation as:
 
-1.Magist is not a seller specialized in technology, only 15% of the total products are tech products, and most are considered cheap.
-
-2.Magist is great at delivering their products on time and has fantastic customer happiness. Deliveries faster than the national average.
+1. Magist is not a seller specialized in technology, only 15% of the total products are tech products, and most are considered cheap.
+2. Magist is great at delivering their products on time and has fantastic customer happiness. Deliveries faster than the national average.
 Based on the dimensions and shipping costs of the products in the database, it was concluded that the shipping cost was well below the normal demands. Since Magist delivers mostly heavy produts such as furniture, The freight cost is quite affordable.
-
-3.Customer satisfaction is high. 
+3. Customer satisfaction is high. 
 
 
 **We recommend Magisti as our partner when entering the Brazilian market.**
