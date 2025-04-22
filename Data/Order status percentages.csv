@@ -1,0 +1,9 @@
+order_status,total
+delivered,97.0203
+unavailable,0.6124
+shipped,1.1132
+canceled,0.6285
+invoiced,0.3158
+processing,0.3027
+approved,0.0020
+created,0.0050

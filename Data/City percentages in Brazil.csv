@@ -1,0 +1,1001 @@
+percentage,city
+16.5771,"sao paulo"
+2.9984,brasilia
+2.0910,"rio de janeiro"
+1.4444,salvador
+1.2306,goiânia
+1.0638,"belo horizonte"
+0.8969,fortaleza
+0.8604,curitiba
+0.7353,"porto alegre"
+0.7248,"sao bernardo do campo"
+0.7196,guarulhos
+0.6779,recife
+0.4693,osasco
+0.4485,"campo grande"
+0.4328,belem
+0.4276,"nova iguaçu"
+0.3963,teresina
+0.3807,manaus
+0.3754,"sao goncalo"
+0.3702,campinas
+0.3598,"feira de santana"
+0.3546,"aparecida de goiania"
+0.3494,natal
+0.3337,"sao luis"
+0.3233,"joão pessoa"
+0.3181,"santo andre"
+0.3181,contagem
+0.3181,anapolis
+0.3181,"duque de caxias"
+0.2868,aracaju
+0.2816,barueri
+0.2816,londrina
+0.2816,sorocaba
+0.2764,betim
+0.2712,"francisco morato"
+0.2607,"mogi das cruzes"
+0.2503,cuiaba
+0.2451,"sao jose do rio preto"
+0.2399,carapicuiba
+0.2347,maceió
+0.2347,"ribeirão preto"
+0.2347,"jaboatao dos guararapes"
+0.2347,"caxias do sul"
+0.2242,"ribeirao das neves"
+0.2242,"juiz de fora"
+0.2242,"presidente prudente"
+0.2242,niteroi
+0.2242,blumenau
+0.2190,bauru
+0.2138,"franco da rocha"
+0.2138,vitoria
+0.2086,"belford roxo"
+0.1929,"sao jose dos campos"
+0.1929,suzano
+0.1929,"vitoria da conquista"
+0.1929,joinville
+0.1929,"volta redonda"
+0.1929,florianopolis
+0.1877,gravatai
+0.1877,"ferraz de vasconcelos"
+0.1877,uberaba
+0.1877,"angra dos reis"
+0.1825,"ribeirão pires"
+0.1825,"santa luzia"
+0.1825,marica
+0.1825,macae
+0.1825,caucaia
+0.1773,olinda
+0.1721,"santana de parnaiba"
+0.1721,"itapecerica da serra"
+0.1721,"ponta grossa"
+0.1669,diadema
+0.1669,guaruja
+0.1669,"campina grande"
+0.1669,jacarei
+0.1669,"governador valadares"
+0.1617,taubate
+0.1617,itaborai
+0.1617,petropolis
+0.1564,itaquaquecetuba
+0.1564,maringa
+0.1564,dourados
+0.1564,"campos dos goytacazes"
+0.1564,varginha
+0.1512,cotia
+0.1512,aracatuba
+0.1512,"novo hamburgo"
+0.1512,"vila velha"
+0.1460,caieiras
+0.1460,piracicaba
+0.1460,marilia
+0.1460,mage
+0.1460,"juazeiro do norte"
+0.1460,paulista
+0.1408,mauá
+0.1408,"praia grande"
+0.1408,canoas
+0.1408,"sao leopoldo"
+0.1408,queimados
+0.1408,"varzea grande"
+0.1356,"taboao da serra"
+0.1356,aruja
+0.1356,santos
+0.1356,pindamonhangaba
+0.1356,sobral
+0.1356,caruaru
+0.1304,guaratinguetá
+0.1304,rondonopolis
+0.1304,luziania
+0.1304,mossoro
+0.1251,viamao
+0.1251,"lauro de freitas"
+0.1251,"barra mansa"
+0.1251,pelotas
+0.1199,palmas
+0.1199,"passo fundo"
+0.1199,"porto velho"
+0.1199,petrolina
+0.1199,"sao jose dos pinhais"
+0.1199,ananindeua
+0.1147,itapevi
+0.1147,"sao vicente"
+0.1147,cubatao
+0.1147,maracanau
+0.1147,lages
+0.1147,guarapuava
+0.1147,parnamirim
+0.1147,teresopolis
+0.1147,japeri
+0.1147,resende
+0.1147,crato
+0.1147,serra
+0.1095,jandira
+0.1095,"sao joao de meriti"
+0.1095,"santa maria"
+0.1095,"cabo frio"
+0.1043,caraguatatuba
+0.1043,cascavel
+0.1043,indaiatuba
+0.1043,"foz do iguaçu"
+0.1043,sabara
+0.1043,"rio branco"
+0.1043,araguaina
+0.0991,cajamar
+0.0991,poa
+0.0991,"sao sebastiao"
+0.0991,"braganca paulista"
+0.0991,alvorada
+0.0991,criciuma
+0.0991,"rio grande"
+0.0991,ibirite
+0.0991,mesquita
+0.0991,"boa vista"
+0.0991,cariacica
+0.0991,guarapari
+0.0991,"santa cruz do sul"
+0.0991,"cachoeiro de itapemirim"
+0.0939,jundiaí
+0.0939,gurupi
+0.0939,imperatriz
+0.0939,arapiraca
+0.0939,itumbiara
+0.0886,uberlandia
+0.0886,"sao carlos"
+0.0886,toledo
+0.0886,parnaiba
+0.0834,"são caetano do sul"
+0.0834,"tres lagoas"
+0.0834,cachoeirinha
+0.0834,itajaí
+0.0834,jau
+0.0834,camaragibe
+0.0834,itapetininga
+0.0834,"sao mateus"
+0.0834,"jaragua do sul"
+0.0834,itaguaí
+0.0834,"sao jose"
+0.0782,atibaia
+0.0782,americana
+0.0782,"rio verde"
+0.0782,sertaozinho
+0.0782,maraba
+0.0782,catanduva
+0.0782,lajeado
+0.0782,"sapucaia do sul"
+0.0782,colombo
+0.0782,botucatu
+0.0782,ourinhos
+0.0782,apucarana
+0.0782,alagoinhas
+0.0782,"nova friburgo"
+0.0730,embu
+0.0730,cacapava
+0.0730,bebedouro
+0.0730,camacari
+0.0730,"nova lima"
+0.0730,santarem
+0.0730,itapeva
+0.0730,catalão
+0.0730,"tres rios"
+0.0730,bagé
+0.0678,cruzeiro
+0.0678,itu
+0.0678,arcoverde
+0.0678,arapongas
+0.0678,piraquara
+0.0678,"aguas lindas de goias"
+0.0678,"estância velha"
+0.0678,corumba
+0.0678,"cabo de santo agostinho"
+0.0678,assis
+0.0678,"teixeira de freitas"
+0.0678,"senador canedo"
+0.0678,"barra do pirai"
+0.0678,trindade
+0.0678,juazeiro
+0.0678,"sao bento do sul"
+0.0626,lorena
+0.0626,chapeco
+0.0626,sumaré
+0.0626,jaguariuna
+0.0626,franca
+0.0626,araraquara
+0.0626,umuarama
+0.0626,"almirante tamandaré"
+0.0626,jequie
+0.0626,"telemaco borba"
+0.0626,barreiras
+0.0626,"são lourenço da mata"
+0.0626,"abreu e lima"
+0.0626,"pocos de caldas"
+0.0626,linhares
+0.0626,sapiranga
+0.0626,erechim
+0.0626,cianorte
+0.0626,paranavai
+0.0626,colatina
+0.0574,"embu das artes"
+0.0574,concordia
+0.0574,"rio claro"
+0.0574,itabuna
+0.0574,pirassununga
+0.0574,"campo largo"
+0.0574,jaboticabal
+0.0574,pinhais
+0.0574,ilheus
+0.0574,macapa
+0.0574,uruguaiana
+0.0574,igarassu
+0.0574,cambe
+0.0574,itabaiana
+0.0574,nilópolis
+0.0574,farroupilha
+0.0521,ji-parana
+0.0521,valinhos
+0.0521,vinhedo
+0.0521,araras
+0.0521,"montes claros"
+0.0521,mococa
+0.0521,"mogi mirim"
+0.0521,araucaria
+0.0521,formosa
+0.0521,"paulo afonso"
+0.0521,garanhuns
+0.0521,tupa
+0.0521,votorantim
+0.0521,"sao roque"
+0.0521,"campo mourao"
+0.0521,tatui
+0.0521,"santa rosa"
+0.0521,palhoca
+0.0521,"pouso alegre"
+0.0521,brusque
+0.0521,"cruz alta"
+0.0521,eunapolis
+0.0521,"rio das ostras"
+0.0521,cacador
+0.0521,"pato branco"
+0.0469,caxias
+0.0469,cacoal
+0.0469,sinop
+0.0469,candeias
+0.0469,"palmeira dos indios"
+0.0469,salto
+0.0469,paranagua
+0.0469,"são joão da boa vista"
+0.0469,amparo
+0.0469,patrocinio
+0.0469,"vitoria de santo antao"
+0.0469,votuporanga
+0.0469,"valparaíso de goiás"
+0.0469,"sao goncalo do amarante"
+0.0469,birigui
+0.0469,"tres coracoes"
+0.0469,"bento goncalves"
+0.0469,pacatuba
+0.0469,avare
+0.0469,guapimirim
+0.0469,iguatu
+0.0469,"balneario camboriu"
+0.0469,viana
+0.0469,gaspar
+0.0417,muriaé
+0.0417,ariquemes
+0.0417,maranguape
+0.0417,goianesia
+0.0417,paulinia
+0.0417,itatiba
+0.0417,araguari
+0.0417,"nova odessa"
+0.0417,limeira
+0.0417,leme
+0.0417,ituiutaba
+0.0417,itapira
+0.0417,jatai
+0.0417,patos
+0.0417,floriano
+0.0417,barretos
+0.0417,"santa ines"
+0.0417,penapolis
+0.0417,mineiros
+0.0417,"belo jardim"
+0.0417,taquara
+0.0417,sousa
+0.0417,indaial
+0.0417,"uniao da vitoria"
+0.0417,ararangua
+0.0417,"capão bonito"
+0.0417,quixada
+0.0417,uba
+0.0417,carpina
+0.0417,"ponta pora"
+0.0417,timon
+0.0417,"conselheiro lafaiete"
+0.0417,sarandi
+0.0417,"sao joao del rei"
+0.0417,"sao pedro da aldeia"
+0.0417,aracruz
+0.0365,NULL
+0.0365,hortolandia
+0.0365,"varzea paulista"
+0.0365,"campo limpo paulista"
+0.0365,cabedelo
+0.0365,altamira
+0.0365,"fazenda rio grande"
+0.0365,mirassol
+0.0365,fernandopolis
+0.0365,alfenas
+0.0365,alegrete
+0.0365,matao
+0.0365,camboriu
+0.0365,esteio
+0.0365,castanhal
+0.0365,caratinga
+0.0365,"lencois paulista"
+0.0365,"rio do sul"
+0.0365,tubarao
+0.0365,vilhena
+0.0365,picos
+0.0313,tucurui
+0.0313,"francisco beltrao"
+0.0313,rolandia
+0.0313,"santa barbara d'oeste"
+0.0313,"mogi guacu"
+0.0313,horizonte
+0.0313,"santo angelo"
+0.0313,jales
+0.0313,"sao domingos"
+0.0313,"santo antonio do descoberto"
+0.0313,santana
+0.0313,"santa cruz do capibaribe"
+0.0313,lins
+0.0313,castro
+0.0313,gravata
+0.0313,planaltina
+0.0313,"santa rita"
+0.0313,paragominas
+0.0313,seropedica
+0.0313,"bom jesus"
+0.0313,biguaçu
+0.0313,redencao
+0.0313,"santana do livramento"
+0.0313,saquarema
+0.0313,itajubá
+0.0313,"patos de minas"
+0.0313,"sao gabriel"
+0.0313,"cachoeira do sul"
+0.0261,navegantes
+0.0261,maresias
+0.0261,"serra talhada"
+0.0261,itabira
+0.0261,ipatinga
+0.0261,cosmopolis
+0.0261,"sao pedro"
+0.0261,bayeux
+0.0261,"santo antonio de jesus"
+0.0261,capanema
+0.0261,batatais
+0.0261,barbacena
+0.0261,araxá
+0.0261,cataguases
+0.0261,tefe
+0.0261,"novo gama"
+0.0261,andradina
+0.0261,passos
+0.0261,paracatu
+0.0261,timoteo
+0.0261,divinopolis
+0.0261,"teófilo otoni"
+0.0261,"boa esperança"
+0.0209,"santa barbara d oeste"
+0.0209,"laranjeiras do sul"
+0.0209,"sao miguel dos campos"
+0.0209,mogi-guacu
+0.0209,"santa helena"
+0.0209,"vista alegre"
+0.0209,planalto
+0.0209,"cidade ocidental"
+0.0209,"sao francisco"
+0.0209,"sete lagoas"
+0.0209,"alto alegre"
+0.0209,agudos
+0.0209,itacoatiara
+0.0209,piratininga
+0.0209,itaituba
+0.0209,vicosa
+0.0209,"vera cruz"
+0.0209,"para de minas"
+0.0209,bonito
+0.0209,"bom jardim"
+0.0156,jussara
+0.0156,"joao monlevade"
+0.0156,"sao francisco da praia"
+0.0156,bandeirantes
+0.0156,"agua branca"
+0.0156,itambe
+0.0156,triunfo
+0.0156,"sao simao"
+0.0156,"santa terezinha"
+0.0156,"ouro preto"
+0.0156,felixlandia
+0.0156,janauba
+0.0156,"novo horizonte"
+0.0156,caicara
+0.0156,"coronel fabriciano"
+0.0156,arapua
+0.0156,jurema
+0.0156,"santa margarida"
+0.0156,"cruzeiro do sul"
+0.0156,"são martinho"
+0.0156,parintins
+0.0156,xinguara
+0.0156,"nova olinda"
+0.0156,floresta
+0.0156,"agua boa"
+0.0156,primavera
+0.0156,"teodoro sampaio"
+0.0156,itapipoca
+0.0156,"ouro branco"
+0.0156,pinhao
+0.0156,"mundo novo"
+0.0156,congonhas
+0.0156,sapucaia
+0.0156,"santa cruz"
+0.0156,quatis
+0.0156,"corrego do ouro"
+0.0156,"bom sucesso"
+0.0156,independencia
+0.0156,bonfim
+0.0156,"monte alegre"
+0.0156,cantagalo
+0.0156,sobradinho
+0.0156,"rio bonito"
+0.0156,"campo alegre"
+0.0156,pilar
+0.0104,"agua fria"
+0.0104,"vargem grande paulista"
+0.0104,"mata de sao joao"
+0.0104,acucena
+0.0104,oriximina
+0.0104,adamantina
+0.0104,"santa isabel"
+0.0104,arapora
+0.0104,fama
+0.0104,barcarena
+0.0104,tupaciguara
+0.0104,"casa nova"
+0.0104,guaraciaba
+0.0104,massaranduba
+0.0104,"nova fatima"
+0.0104,"monte alegre de minas"
+0.0104,morrinhos
+0.0104,eldorado
+0.0104,lagoinha
+0.0104,"ponte nova"
+0.0104,itaja
+0.0104,"picada café"
+0.0104,canápolis
+0.0104,"sao tome"
+0.0104,"flores da cunha"
+0.0104,aparecida
+0.0104,"alto paraiso"
+0.0104,milagres
+0.0104,pinheiros
+0.0104,"cachoeira dourada"
+0.0104,"sao jose do barreiro"
+0.0104,patis
+0.0104,tuiuti
+0.0104,vargem
+0.0104,colorado
+0.0104,soledade
+0.0104,pinhalzinho
+0.0104,manhuacu
+0.0104,maravilha
+0.0104,itupeva
+0.0104,cabreuva
+0.0104,aragarcas
+0.0104,ipira
+0.0104,mombuca
+0.0104,ipora
+0.0104,batalha
+0.0104,"pau d'arco"
+0.0104,"santa teresinha"
+0.0104,dourado
+0.0104,buriti
+0.0104,"santa barbara"
+0.0104,roteiro
+0.0104,"jequia da praia"
+0.0104,periquito
+0.0104,portelandia
+0.0104,"presidente juscelino"
+0.0104,"barra de sao miguel"
+0.0104,naque
+0.0104,jussari
+0.0104,realeza
+0.0104,"santana do paraiso"
+0.0104,"rio paranaiba"
+0.0104,cravinhos
+0.0104,serrana
+0.0104,"serra azul"
+0.0104,"morro da garca"
+0.0104,nazare
+0.0104,inimutaba
+0.0104,"nova veneza"
+0.0104,guara
+0.0104,jatoba
+0.0104,conde
+0.0104,jardinopolis
+0.0104,juscimeira
+0.0104,"pedra preta"
+0.0104,"monte azul paulista"
+0.0104,"terra roxa"
+0.0104,pitangueiras
+0.0104,"terra nova"
+0.0104,jaborandi
+0.0104,guaira
+0.0104,gaurama
+0.0104,iranduba
+0.0104,tapira
+0.0104,"santa lucia"
+0.0104,"sao joao batista"
+0.0104,"santa filomena"
+0.0104,"nova america"
+0.0104,tabatinga
+0.0104,flores
+0.0104,douradina
+0.0104,"sant'ana do livramento"
+0.0104,aurora
+0.0104,cedro
+0.0104,palmeira
+0.0104,laranjal
+0.0104,pirapora
+0.0104,"santo amaro"
+0.0104,prata
+0.0104,taperoa
+0.0104,nhandeara
+0.0104,carauari
+0.0104,mendonca
+0.0104,joanesia
+0.0104,humaitá
+0.0104,"capitao eneas"
+0.0104,marau
+0.0104,"barao de cocais"
+0.0104,jandaira
+0.0104,"nova uniao"
+0.0104,"porto acre"
+0.0104,"carmo do paranaiba"
+0.0104,itapura
+0.0104,guaraci
+0.0104,"riacho de santana"
+0.0104,caete
+0.0104,palestina
+0.0104,jacuipe
+0.0104,"ponte alta"
+0.0104,brumadinho
+0.0104,ceilandia
+0.0104,jordao
+0.0104,piranhas
+0.0104,brasitânia
+0.0104,indianopolis
+0.0104,"prudente de morais"
+0.0104,"são joão nepomuceno"
+0.0104,inhauma
+0.0104,parana
+0.0104,turmalina
+0.0104,taguatinga
+0.0104,"sao joao"
+0.0104,harmonia
+0.0104,funilandia
+0.0104,apora
+0.0104,paraiso
+0.0104,baldim
+0.0104,jardim
+0.0104,jaru
+0.0104,"monte santo de minas"
+0.0104,"alem paraiba"
+0.0104,cedral
+0.0104,taquaritinga
+0.0104,itamogi
+0.0104,"entre rios"
+0.0104,"general carneiro"
+0.0104,"mar de espanha"
+0.0104,alagoinha
+0.0104,"nova vicosa"
+0.0104,gloria
+0.0104,glicerio
+0.0104,"nova santa rita"
+0.0104,japura
+0.0104,"aguas vermelhas"
+0.0104,jundia
+0.0104,"lagoa santa"
+0.0104,cafelandia
+0.0104,simoes
+0.0104,caapiranga
+0.0104,"fazenda nova"
+0.0104,itauna
+0.0104,"morada nova"
+0.0104,"vargem bonita"
+0.0104,bocaina
+0.0104,"dois irmãos"
+0.0104,ipiranga
+0.0104,"joao pinheiro"
+0.0104,"barra bonita"
+0.0104,"nova crixas"
+0.0104,centenario
+0.0104,garca
+0.0104,"novo santo antonio"
+0.0104,duartina
+0.0104,goiana
+0.0104,"porto firme"
+0.0104,itacare
+0.0104,ibaiti
+0.0104,"barro duro"
+0.0104,davinopolis
+0.0104,"ouro verde"
+0.0104,"monte castelo"
+0.0104,ijaci
+0.0104,tavares
+0.0104,"santa vitoria do palmar"
+0.0104,"rio negro"
+0.0104,tapiraí
+0.0104,nanuque
+0.0104,conceição
+0.0104,aracoiaba
+0.0104,"sao geraldo"
+0.0104,"lagoa grande"
+0.0104,"sao jose do divino"
+0.0104,"lagoa do mato"
+0.0104,itaoca
+0.0104,"bom jesus do tocantins"
+0.0104,pilões
+0.0104,"nova aurora"
+0.0104,itaporanga
+0.0104,campestre
+0.0104,fatima
+0.0104,barracao
+0.0104,"santa cecilia"
+0.0104,botelhos
+0.0104,tangara
+0.0104,alegria
+0.0104,iracema
+0.0104,mucuri
+0.0104,"sitio novo"
+0.0104,caridade
+0.0104,esperantina
+0.0104,cristalina
+0.0104,araruna
+0.0104,atalaia
+0.0104,"piedade dos gerais"
+0.0104,maripá
+0.0104,"sao vicente ferrer"
+0.0104,chavantes
+0.0104,camanducaia
+0.0104,ibitira
+0.0104,"sao joao do paraiso"
+0.0104,icara
+0.0104,extrema
+0.0104,"estrela do norte"
+0.0104,itapiranga
+0.0104,condado
+0.0104,tapejara
+0.0104,"presidente bernardes"
+0.0104,"barro alto"
+0.0104,capela
+0.0104,varzea
+0.0104,urucuia
+0.0104,mulungu
+0.0104,serranopolis
+0.0104,mirador
+0.0104,"feira nova"
+0.0104,belmonte
+0.0104,"ruy barbosa"
+0.0104,mauriti
+0.0104,"sao sebastiao do oeste"
+0.0104,filadelfia
+0.0104,"pilar de goias"
+0.0104,maracai
+0.0104,"santa rosa de lima"
+0.0104,colinas
+0.0104,jacutinga
+0.0104,"cândido mota"
+0.0104,"areia branca"
+0.0104,palmital
+0.0104,mangaratiba
+0.0104,virgolandia
+0.0104,crucilandia
+0.0104,buritis
+0.0104,"paraiba do sul"
+0.0104,buritirama
+0.0104,"engenheiro paulo de frontin"
+0.0104,barauna
+0.0104,"sao miguel"
+0.0104,diamantino
+0.0104,turvo
+0.0104,penedo
+0.0104,valenca
+0.0104,irati
+0.0104,araguana
+0.0104,manacapuru
+0.0104,hidrolândia
+0.0104,"corrego fundo"
+0.0104,"santa barbara de goias"
+0.0104,paranacity
+0.0104,"augusto de lima"
+0.0104,"presidente medici"
+0.0104,ipuiuna
+0.0104,barcelos
+0.0104,riachuelo
+0.0104,itaperuna
+0.0104,careacu
+0.0104,"boa ventura"
+0.0104,petrolandia
+0.0104,"nova olimpia"
+0.0104,natividade
+0.0104,botuvera
+0.0104,pureza
+0.0104,cambuci
+0.0104,alcobaca
+0.0104,jaguarari
+0.0104,canarana
+0.0104,itueta
+0.0104,macuco
+0.0104,"chapada gaucha"
+0.0104,itaocara
+0.0104,caçu
+0.0104,caracol
+0.0104,tacaratu
+0.0104,"cachoeiras de macacu"
+0.0104,"sao francisco de paula"
+0.0104,"santa maria madalena"
+0.0104,"pedra branca"
+0.0104,formoso
+0.0104,araruama
+0.0104,bacaxa
+0.0104,"engenheiro navarro"
+0.0104,coqueiral
+0.0104,anchieta
+0.0104,"wenceslau braz"
+0.0104,"domingos martins"
+0.0104,"rio manso"
+0.0104,queimadas
+0.0104,aracuai
+0.0104,catanduvas
+0.0104,"presidente kennedy"
+0.0104,inajá
+0.0104,"muniz freire"
+0.0104,jangada
+0.0104,"belo oriente"
+0.0104,tucano
+0.0104,"sao joao da serra"
+0.0104,bugre
+0.0104,"afonso claudio"
+0.0104,"laranja da terra"
+0.0104,"divisa nova"
+0.0104,"santa teresa"
+0.0104,"rio das antas"
+0.0104,brejinho
+0.0104,itaguacu
+0.0104,"novo brasil"
+0.0104,"sao goncalo do para"
+0.0104,lajinha
+0.0104,"sao bento"
+0.0104,"nova floresta"
+0.0104,perdigao
+0.0104,"conceição do coité"
+0.0104,"antonio carlos"
+0.0104,"carmo do cajuru"
+0.0104,itaguara
+0.0104,quilombo
+0.0104,serrinha
+0.0052,jaguapitã
+0.0052,catuipe
+0.0052,"ribeirao cascalheira"
+0.0052,anitapolis
+0.0052,muliterno
+0.0052,"são pedro do ivaí"
+0.0052,aruanã
+0.0052,"sao valentim do sul"
+0.0052,uirapuru
+0.0052,carlinda
+0.0052,"honorio serpa"
+0.0052,"santa rita do araguaia"
+0.0052,anahy
+0.0052,"joaquim tavora"
+0.0052,"montes claros de goias"
+0.0052,"roca sales"
+0.0052,mossamedes
+0.0052,"bom jardim da serra"
+0.0052,sananduva
+0.0052,"rio do oeste"
+0.0052,santiago
+0.0052,"salto do itararé"
+0.0052,cumari
+0.0052,"coronel freitas"
+0.0052,"porto alegre do norte"
+0.0052,"sao jose do cedro"
+0.0052,"pedras grandes"
+0.0052,"bom princípio"
+0.0052,"nova glória"
+0.0052,corumbaiba
+0.0052,pontalina
+0.0052,figueira
+0.0052,"paulo bento"
+0.0052,"capao alto"
+0.0052,iguaracu
+0.0052,brazabrantes
+0.0052,tuparendi
+0.0052,imbe
+0.0052,brasilandia
+0.0052,"antonio olinto"
+0.0052,cruzmaltina
+0.0052,"nova erechim"
+0.0052,"barao de melgaco"
+0.0052,bataguassu
+0.0052,"santa rita do oeste"
+0.0052,brunopolis
+0.0052,"prudencio thomaz"
+0.0052,veranópolis
+0.0052,cezarina
+0.0052,japorã
+0.0052,"ponte alta do norte"
+0.0052,"bela vista da caroba"
+0.0052,california
+0.0052,"grão pará"
+0.0052,anastacio
+0.0052,imarui
+0.0052,"nova pádua"
+0.0052,"colonia castrolanda"
+0.0052,riqueza
+0.0052,"nova esperança"
+0.0052,marumbi
+0.0052,caraá
+0.0052,miranda
+0.0052,tocantinopolis
+0.0052,"cidade gaucha"
+0.0052,itaberai
+0.0052,"bocaiuva do sul"
+0.0052,"sao lourenco do oeste"
+0.0052,"doutor ulysses"
+0.0052,"santo expedito do sul"
+0.0052,"pindorama do tocantins"
+0.0052,"areia branca dos assis"
+0.0052,"vila marques"
+0.0052,"tres cachoeiras"
+0.0052,paranatinga
+0.0052,imbituva
+0.0052,ermo
+0.0052,"nova londrina"
+0.0052,"salvador das missoes"
+0.0052,"presidente castelo branco"
+0.0052,cassilandia
+0.0052,andira
+0.0052,peixe
+0.0052,"engenheiro beltrao"
+0.0052,"nova guarita"
+0.0052,cristalandia
+0.0052,"monte do carmo"
+0.0052,"fernandes pinheiro"
+0.0052,"nova cantu"
+0.0052,"aparecida do rio negro"
+0.0052,candói
+0.0052,"sao jorge doeste"
+0.0052,pitanga
+0.0052,"mariano moro"
+0.0052,"aguas mornas"
+0.0052,goianorte
+0.0052,"tres barras do parana"
+0.0052,"vila langaro"
+0.0052,"santa rita do trivelato"
+0.0052,"paulo frontin"
+0.0052,"luiz alves"
+0.0052,"morro agudo de goias"
+0.0052,itapora
+0.0052,"planalto alegre"
+0.0052,"bernardo sayão"
+0.0052,"santa tereza de goiás"
+0.0052,palotina
+0.0052,"sao miguel do tocantins"
+0.0052,"salgado filho"
+0.0052,"dona francisca"
+0.0052,"salto veloso"
+0.0052,"formosa do oeste"
+0.0052,aragominas
+0.0052,"sao luis de montes belos"
+0.0052,"aurora do iguacu"
+0.0052,"lajeado do bugre"
+0.0052,"nova santa rosa"
+0.0052,itapuca
+0.0052,"boa esperanca do iguacu"
+0.0052,"santo antonio do paraiso"
+0.0052,"nova america da colina"
+0.0052,guiratinga
+0.0052,"sao sebastiao do tocantins"
+0.0052,itaguaje
+0.0052,"nova hartz"
+0.0052,"capao da canoa"
+0.0052,"esperanca nova"
+0.0052,"campinas do sul"
+0.0052,carazinho
+0.0052,palmitinho
+0.0052,"vale de sao domingos"
+0.0052,jaraguari
+0.0052,camargo
+0.0052,itaara
+0.0052,"porto lucena"
+0.0052,"senador salgado filho"
+0.0052,janiopolis
+0.0052,nonoai
+0.0052,guaramirim
+0.0052,juina
+0.0052,morretes
+0.0052,"santo augusto"
+0.0052,espumoso
+0.0052,ijui
+0.0052,"barra do guarita"
+0.0052,edealina
+0.0052,"rodeio bonito"
+0.0052,"santa rita do novo destino"
+0.0052,ibirubá
+0.0052,forquetinha
+0.0052,atalanta
+0.0052,"são joão do caiuá"
+0.0052,bossoroca
+0.0052,"residencia fuck"
+0.0052,"rosario do sul"
+0.0052,"fortaleza dos valos"
+0.0052,"rio bonito do iguacu"
+0.0052,barrolandia
+0.0052,"sao clemente"
+0.0052,urussanga
+0.0052,"são vicente do sul"
+0.0052,"alto paraguai"
+0.0052,"passa sete"
+0.0052,"campo novo do parecis"
+0.0052,xanxere
+0.0052,"cerro grande do sul"
+0.0052,"presidente getúlio"
+0.0052,"sao jose do ivai"
+0.0052,"major gercino"
+0.0052,"cacapava do sul"
+0.0052,porecatu
+0.0052,guabiruba
+0.0052,piratini
+0.0052,ivinhema
+0.0052,parai
+0.0052,cerrito
+0.0052,"major vieira"
+0.0052,quinta
+0.0052,ibirapuita
+0.0052,taquari
+0.0052,"capao do leao"
+0.0052,marcelândia
+0.0052,capinzal
+0.0052,"sonho azul"
+0.0052,vacaria
+0.0052,"doutor ricardo"
+0.0052,seara
+0.0052,westfalia
+0.0052,"sao jeronimo"
+0.0052,brochier
