@@ -1,11 +1,11 @@
 # Data Analysis & Visualization Project For Eniac:
 ## DataScience Project 1 : WBS Coding School
-This project is a part of my studies at DataScience Bootcamp which covers topics such as, SQL & Tableau.
+This project is a part of my studies at DataScience Course which covers topics such as, SQL & Tableau.
 ## Objective: 
 To find that Magist is the best service provider for Eniac's order deliveries or not.
 
 ## Summary:
-As a part of **WBS Coding School** learning exercise we got our first project which allows us to showcase our knowledge gained till now from Bootcamp.
+As a part of **WBS Coding School** learning exercise we got our first project which allows us to showcase our knowledge gained till now from the Course.
 
 Details of this project are as follows:
 
